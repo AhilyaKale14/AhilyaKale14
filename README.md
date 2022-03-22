@@ -1,15 +1,13 @@
-### Hi there 👋
-
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+  <img src="img/snapbitmoji.png" height="200"/>
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kumar Prakhar</h1>
-<h3 align="center">Computer Science Engineer | Web Designer | Data Analysis Enthusiast</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ahilya Kale</h1>
+<h3 align="center">Computer Science Engineer | Web Designer | Data Analyst/h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/kumar-prakhar-8a745b16b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
-<a href="https://www.facebook.com/Kumar.Pakhar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kumar prakhar" height="30" width="40" /></a>
-<a href = "mailto: kumarprkhr@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahilyakale" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100009424149902" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ahilya kale" height="30" width="40" /></a>
+<a href = "mailto: ahilyakale@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 </p>
 
@@ -17,9 +15,9 @@
 
 <p align="center">
   <em>
-    This is ME, Kumar Prakhar, a <b>second year</b> undergraduate from <a href="https://www.vitbhopal.ac.in/"> <b>Vellore Institute of Technology</b>, Bhopal</a>. <br>
+    This is ME, Ahilya Kale, a <b>third year</b> undergraduate from <a href="https://www.vitbhopal.ac.in/"> <b>Vellore Institute of Technology</b>, Bhopal</a>. <br>
     A budding <b>Data Scientist</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Web Designer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
+    with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em> 
@@ -32,11 +30,11 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**Talking about Personal Stuffs...**
 
 ✔ Pronouns: **He/His* or *TeamMaker**😉 <br>
-✔ I’m currently Developing *Heart Health* Heart failiure prediction app<br>
-✔ I’m currently learning *Computer Vision* & *Deep Learning*<br>
-✔ I’m looking for help for learning *Neural Networks*<br>
-✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-✔ Fun fact : At The time of Stress coding, I use to be in half sleeping mode<br><br><br><br>
+✔ I’m currently Developing *Medical App* Medical Emergency Alerting App<br>
+✔ I’m currently learning *Data Science* & *Computer Vision*<br>
+✔ I’m looking for help for learning *Motion Tracking*<br>
+✔ Ask me about anything, I am happy to help.
+✔ Fun fact : Alfredo Pasta on the go ! :🍴<br><br><br><br>
  
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**Languages & Tools I Know...**
@@ -61,9 +59,9 @@
   <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kprakhar27&show_icons=true&locale=en&layout=compact" alt="kprakhar27" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhilyaKale14&show_icons=true&locale=en&layout=compact" alt="AhilyaKale14" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kprakhar27&show_icons=true&locale=en" alt="kprakhar27" width="410" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AhilyaKale14&show_icons=true&locale=en" alt="AhilyaKale14" width="410" /></p>
 
 <hr>
 
