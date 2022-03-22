@@ -25,7 +25,7 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kprakhar27&label=Profile%20views&color=0e75b6&style=flat" alt="kprakhar27" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AhilyaKale14&label=Profile%20views&color=0e75b6&style=flat" alt="AhilyaKale14" /> </p>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**Talking about Personal Stuffs...**
 
