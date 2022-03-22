@@ -33,7 +33,7 @@
 ✔ I’m currently Developing *Medical App* Medical Emergency Alerting App<br>
 ✔ I’m currently learning *Data Science* & *Computer Vision*<br>
 ✔ I’m looking for help for learning *Motion Tracking*<br>
-✔ Ask me about anything, I am happy to help.
+✔ Always ready to help<br>
 ✔ Fun fact : Alfredo Pasta on the go ! :🍴<br><br><br><br>
  
 
