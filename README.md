@@ -37,7 +37,7 @@
 ✔ Fun fact : Alfredo Pasta on the go ! :🍴<br><br><br><br>
  
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**Languages & Tools I Know...**
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif"  alt="Image" height="42" width="42">&nbsp;**Languages & Tools I Know...**
 <p align="left">
   
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> </code>
@@ -58,7 +58,7 @@
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> </code>
   <hr>
   <p align="center">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+ <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" height="42" width="42" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" height="42" width="42" alt="GitHub-Status"/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhilyaKale14&show_icons=true&locale=en&layout=compact" alt="AhilyaKale14" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AhilyaKale14&show_icons=true&locale=en" alt="AhilyaKale14" width="410" /></p>
