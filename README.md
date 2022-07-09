@@ -27,7 +27,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AhilyaKale14&label=Profile%20views&color=0e75b6&style=flat" alt="AhilyaKale14" /> </p>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**Talking about Personal Stuffs...**
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif"  alt="Image" height="42" width="42">&nbsp;**Talking about Personal Stuffs...**
 
 ✔ Pronouns: **She/Her* or *TeamMaker**😉 <br>
 ✔ I’m currently Developing *Medical App* Medical Emergency Alerting App<br>
